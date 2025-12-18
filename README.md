@@ -1,5 +1,7 @@
 Heart Disease Risk Prediction
+
 Authors: Niraj Bhandari 
+
 Project Type: Machine Learning / Data Science
 Language: Python (Jupyter Notebook)
 
