@@ -23,7 +23,7 @@ Heart Disease Risk Prediction.ipynb – The main Jupyter Notebook with code, vis
 Heart Disease Risk Prediction.pdf – PDF version of the notebook for easy viewing.
 How to Run
 Clone the repository:
-git clone https://github.com/yourusername/heart-disease-ml.git
+git clone https://github.com/Nirajbhandari99/heart-disease-ml.git
 
 Open the Jupyter Notebook:
 
